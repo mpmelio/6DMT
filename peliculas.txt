@@ -60,3 +60,8 @@ peliculas 2
 peliculas 3
 
 
+"El padrino" – Francis Ford Coppola
+
+"La lista de Schindler" – Steven Spielberg
+
+"Parásitos" – Bong Joon-ho
