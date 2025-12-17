@@ -50,3 +50,8 @@ libro 2 Librote
 libro 3 Librillo
 
 
+"Cien años de soledad" – Gabriel García Márquez
+
+"Don Quijote de la Mancha" – Miguel de Cervantes
+
+"La sombra del viento" – Carlos Ruiz Zafón
